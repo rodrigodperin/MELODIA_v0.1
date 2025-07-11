@@ -21,8 +21,9 @@ E.g.: Try holding up two fingers and ask "How many fingers am I holding up?"
 Screen Capture Input (Visual Context): Share your screen content to provide contextual information for your queries.
 E.g.: Try asking "How many windows are open on my desktop now?"
 
-File Upload: Load text files to submit queries about their content.
-A sample text is provided, try asking "What time should the patient take Metformin?"
+File Upload: Load text files to submit queries about their content. Use the 'Add file' button.
+A sample text is provided, try asking "What time should the patient take Metformin?" and hit the 'Query file' button.
+For the moment the output from these queries is text only.
 
 Audio Output with Transcripts: All responses from MELODIA are provided as synthesized audio, accompanied by a real-time text transcript for easy reference.
 
