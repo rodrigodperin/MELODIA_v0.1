@@ -1,0 +1,6 @@
+Every day at noon, the patient takes Metformin, ideally together with lunch, to avoid high blood sugar.
+
+Every afternoon at 16:00 the patient takes Olmesartan to prevent high blood pressure.
+
+The patient has physiotherapy sessions scheduled every Wednesday at 14:00.
+
